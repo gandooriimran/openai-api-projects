@@ -163,6 +163,17 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/openai/reference
 <img width="763" height="388" alt="{CCC134C0-7028-49BD-A866-F34637FB58E7}" src="https://github.com/user-attachments/assets/1367c1f0-3621-4015-9417-a6b65953bc85" />
 
 
+<img width="761" height="275" alt="{8CEDAD74-3042-4252-BDC5-FED378411485}" src="https://github.com/user-attachments/assets/88dbf9f9-7f37-4ef1-8624-e2e9bb22e40a" />
+
+<img width="755" height="242" alt="{671AB307-C781-4E8C-8BC4-5E53070D78AE}" src="https://github.com/user-attachments/assets/34f5d3ff-a788-47f5-b46f-782c1c6d65ae" />
+
+<img width="730" height="438" alt="{A77EE32A-1A03-43E9-AB7E-A3351940D90D}" src="https://github.com/user-attachments/assets/b6e61046-2bc8-4b0c-81aa-190e5f6c42f2" />
+
+<img width="786" height="411" alt="{550D36FD-005D-4F5E-AFEE-4A9940AC0279}" src="https://github.com/user-attachments/assets/728dc6cc-16f4-4d71-8990-f06dde949506" />
+
+
+<img width="736" height="395" alt="{9AFC74C3-D9C3-4274-B537-6EE81F21591F}" src="https://github.com/user-attachments/assets/398e39c5-cb34-4880-bac7-14fd645cc68d" />
+
 
 
 
