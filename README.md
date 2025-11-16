@@ -153,7 +153,14 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/openai/reference
 
 <img width="785" height="394" alt="{E889E6A0-A792-43A8-A7D5-A0AF701B365D}" src="https://github.com/user-attachments/assets/3b33dadb-d7eb-41a1-b519-264ba623be33" />
 
-![Uploading {D594ECA1-6B36-4A56-BE13-819677AE31C6}.png…]()
+<img width="741" height="358" alt="{E27A0207-C24F-4A14-AC48-165A2508578F}" src="https://github.com/user-attachments/assets/af94298c-78fa-4dbf-8219-15e1137d8826" />
+
+<img width="765" height="380" alt="{A22DEE9C-D70A-4D6F-95F8-DC5542EF5F74}" src="https://github.com/user-attachments/assets/44f758cf-7803-4c8d-9672-ea17d1b1769c" />
+
+<img width="747" height="330" alt="{235B6806-2B4E-44FA-BA4A-075D8DE96287}" src="https://github.com/user-attachments/assets/339196f7-2ea6-483d-9caf-dc613ce47c1d" />
+
+
+<img width="763" height="388" alt="{CCC134C0-7028-49BD-A866-F34637FB58E7}" src="https://github.com/user-attachments/assets/1367c1f0-3621-4015-9417-a6b65953bc85" />
 
 
 
