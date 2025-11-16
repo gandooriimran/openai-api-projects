@@ -120,7 +120,40 @@ streamlit run main.py
 
 
 
+<img width="829" height="458" alt="{6396B43E-0FB0-493C-968B-AED5EE9543AA}" src="https://github.com/user-attachments/assets/5ea0f828-cf9f-4bf1-88c2-fc9b6fbf9214" />
 
+<img width="827" height="430" alt="{785A0A4B-2334-4F6B-AD49-874EB816B730}" src="https://github.com/user-attachments/assets/445f7d32-acd7-458a-b70f-f365e51fba89" />
+
+<img width="833" height="430" alt="{F4774102-2E44-435D-A2B0-70B49D5A7BAA}" src="https://github.com/user-attachments/assets/98b62304-3cb5-4bf7-b29f-baeeec240eba" />
+
+
+<img width="833" height="461" alt="{EADC264C-4A06-4D9D-8A59-5AE78D241C03}" src="https://github.com/user-attachments/assets/8df0d436-3696-41b8-8254-129e6c3c97d4" />
+
+<img width="838" height="450" alt="{C0D2869E-AE6F-4A91-9529-8195FC0BFCF5}" src="https://github.com/user-attachments/assets/55db3ed2-89b6-44be-817c-069c7d2e1c1f" />
+
+
+<img width="835" height="456" alt="{A8995A4A-EC5F-4F53-B135-B94576F277FC}" src="https://github.com/user-attachments/assets/c5f14d2b-25d6-488a-9b39-150585402c0a" />
+
+<img width="832" height="452" alt="{3DC4EBBE-2528-46D9-B886-D67A525F9C12}" src="https://github.com/user-attachments/assets/c8bee262-b36e-4089-9ae3-7debb6ddb904" />
+
+
+<img width="833" height="442" alt="{50810153-3B4B-4094-AEF1-2E84929B3EE2}" src="https://github.com/user-attachments/assets/8a53860f-887e-46ef-9697-e48a44f017d0" />
+
+
+<img width="821" height="371" alt="{B73137F2-1214-4317-8A7C-2F13973465D4}" src="https://github.com/user-attachments/assets/0c37e342-69be-4a53-ab6a-3209a2da774c" />
+
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/reference 
+
+<img width="784" height="369" alt="{D594ECA1-6B36-4A56-BE13-819677AE31C6}" src="https://github.com/user-attachments/assets/cbe77954-fa28-4179-8c8a-a6693eae8001" />
+
+<img width="551" height="451" alt="{D21370FD-66AD-44D6-93E9-E6739C6F6CE4}" src="https://github.com/user-attachments/assets/e08b538b-c639-4990-96b3-871c5720a7ac" />
+
+<img width="850" height="394" alt="{184FDF5F-0347-490D-85C3-4BB378D86276}" src="https://github.com/user-attachments/assets/9af914de-5715-4576-8d94-a3136a197b23" />
+
+<img width="785" height="394" alt="{E889E6A0-A792-43A8-A7D5-A0AF701B365D}" src="https://github.com/user-attachments/assets/3b33dadb-d7eb-41a1-b519-264ba623be33" />
+
+![Uploading {D594ECA1-6B36-4A56-BE13-819677AE31C6}.png…]()
 
 
 
