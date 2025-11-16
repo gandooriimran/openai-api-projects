@@ -176,4 +176,43 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/openai/reference
 
 
 
+<img width="795" height="385" alt="{0F361F6E-AFCD-4CD4-97A2-139601C4FC5B}" src="https://github.com/user-attachments/assets/20eaef9e-c60a-4ed3-b440-f8564ff1ae7a" />
+
+<img width="776" height="302" alt="{A52AF98C-6662-4DEF-8A87-6FB5E3DF9172}" src="https://github.com/user-attachments/assets/00951669-e3b5-4745-92e6-2eccd58d0b1a" />
+
+
+<img width="825" height="447" alt="{4A7E24D4-C80E-4432-B07C-8A32D1433C0F}" src="https://github.com/user-attachments/assets/9aba2c6a-5df1-43b4-8b76-914e7714d8fc" />
+
+<img width="810" height="431" alt="{19470238-C03A-45C0-BB28-977AC0215C4E}" src="https://github.com/user-attachments/assets/0ab34a79-ea8e-4ecb-98e6-f49b465a0ff7" />
+
+<img width="791" height="418" alt="{0718E3D7-D3BA-45C3-AD04-94A1126CEE70}" src="https://github.com/user-attachments/assets/4db3a324-c491-48f2-a87e-b9b37e3cf43f" />
+
+
+<img width="673" height="424" alt="{21C1079B-1C41-44D7-9CC6-82D11559579B}" src="https://github.com/user-attachments/assets/0fc3fb1d-2cd2-43fa-bc46-db6ee0ceb2cc" />
+
+<img width="820" height="448" alt="{72D309EC-D701-433F-B991-DC736DB134B7}" src="https://github.com/user-attachments/assets/99b64ca2-91d8-4337-aa3c-06f0bc28bda7" />
+
+<img width="836" height="463" alt="{C6B79CD2-341F-4F95-BE01-5043814E896C}" src="https://github.com/user-attachments/assets/e9fdcb42-3733-4863-95b3-7824fc87054c" />
+
+<img width="803" height="335" alt="{6687001B-F2B7-4673-A733-E8221AB08CCA}" src="https://github.com/user-attachments/assets/81382369-81ee-432f-a2cb-dda49ebf7e03" />
+
+
+<img width="621" height="390" alt="{167A9236-B99F-46B0-9A9B-F7BF070C586C}" src="https://github.com/user-attachments/assets/239106e6-9630-4f3f-b457-550000ac4f7d" />
+
+<img width="818" height="453" alt="{044F80B3-7FD0-419B-A924-1C3DB1E3518C}" src="https://github.com/user-attachments/assets/d97a30fa-deb9-4597-ac23-ab057a4fbbbd" />
+
+<img width="849" height="392" alt="{DD622E8A-32F5-472B-841B-D6BF94C9B403}" src="https://github.com/user-attachments/assets/aaf771bd-161b-48aa-8a4a-68c9632f7310" />
+
+
+<img width="811" height="448" alt="{4C70AA9C-2574-4555-AE75-764FAB2E7D2F}" src="https://github.com/user-attachments/assets/c6fbcf3e-d5a5-4926-9c3c-f89e3d3a1286" />
+
+
+<img width="659" height="48" alt="{A71D28FD-3F35-4059-BD76-3018A9E23784}" src="https://github.com/user-attachments/assets/d2516aa3-38da-468c-988a-d07684f236fb" />
+
+<img width="561" height="310" alt="{40854C5D-54EF-4523-B268-59B6DF171F78}" src="https://github.com/user-attachments/assets/8b823b94-4ae6-407a-ad8c-9bc7e67b5132" />
+
+
+
+<img width="524" height="296" alt="{7022C073-90CB-4ACD-9C23-FF5BA1A4303B}" src="https://github.com/user-attachments/assets/c5aef33d-1294-41dc-a716-69b1425bf7f7" />
+
 
