@@ -61,3 +61,32 @@ Running streamlit app
 From your command line run this command,
 
 streamlit run main.py
+```
+
+
+
+------------------------------------------------Models -------------------------------
+<img width="601" height="322" alt="{60E1B3E7-CB5C-40D1-BDD1-C5AF47DE33ED}" src="https://github.com/user-attachments/assets/86a049e9-b144-4fe7-9a69-4d5e485ce60c" />
+
+<img width="802" height="334" alt="{BFADA696-7FC9-4775-8B7B-39691518ED25}" src="https://github.com/user-attachments/assets/10197c04-5a17-46d0-99a3-3e62cd55cefb" />
+
+<img width="824" height="361" alt="{192B89A6-2DA0-43BC-837E-1AFE5A45EA63}" src="https://github.com/user-attachments/assets/e902e2b2-765c-4c0f-8ef1-ad2dbe7beb77" />
+
+<img width="819" height="372" alt="{EBCC9466-B4E9-4366-8CEB-955E90D85814}" src="https://github.com/user-attachments/assets/4fa41f6b-f474-41bd-9f65-f5acad6b02dc" />
+
+<img width="832" height="458" alt="{670B0941-17E4-431B-99C9-B0EF8193D00A}" src="https://github.com/user-attachments/assets/9a8a8a39-4e7e-4d7f-a6e9-bdc5711b9eca" />
+
+<img width="784" height="397" alt="{34C091E7-9FAF-4541-AD00-92DF76BFB8DD}" src="https://github.com/user-attachments/assets/c0647c84-2d3c-47f1-9a54-a0d4803a3902" />
+
+<img width="812" height="454" alt="{5A31DF2D-8D68-4ED5-A34D-08AC2D3BA599}" src="https://github.com/user-attachments/assets/5c0a6562-d775-4f7d-be63-d2810db2bf56" />
+
+<img width="830" height="454" alt="{86290A55-BF8B-401F-ABA0-E1A64B7122E4}" src="https://github.com/user-attachments/assets/91fd958b-4b68-40d1-8000-fdc4656e15bc" />
+
+<img width="836" height="447" alt="{9C6B10D5-A5E9-441E-99D9-8A4B96BA9A52}" src="https://github.com/user-attachments/assets/e6e95e3f-8d7a-497a-83b4-b5b6f7010474" />
+
+
+
+
+
+
+
