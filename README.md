@@ -261,3 +261,5 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/openai/reference
 
 
 
+----------------------------Agentic AI -----------------------------------
+
